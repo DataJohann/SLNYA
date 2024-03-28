@@ -1,0 +1,22 @@
+{
+    "name": "Solenya Token",
+    "symbol": "SLNYA",
+    "description": "Solenya the pickle token.",
+    "image": "https://raw.githubusercontent.com/DataJohann/SLNYA/main/solenya.webp",
+    "attributes": [
+      {
+        "trait_type": "Foundation",
+        "value": "Solenya Lore"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/DataJohann/SLNYA/main/solenya.webp",
+          "type": "image/jpeg"
+        }
+      ],
+      "category": "image"
+    }
+  }
+  
