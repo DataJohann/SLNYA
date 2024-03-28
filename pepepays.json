@@ -1,0 +1,22 @@
+{
+    "name": "Pepe Pays",
+    "symbol": "PPP",
+    "description": "Pepe pays, always",
+    "image": "https://raw.githubusercontent.com/DataJohann/SLNYA/main/pepepayingyou.WEBP",
+    "attributes": [
+      {
+        "trait_type": "Foundation",
+        "value": "Pepe foundation"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/DataJohann/SLNYA/main/pepepayingyou.WEBP",
+          "type": "image/webp"
+        }
+      ],
+      "category": "image"
+    }
+  }
+  
